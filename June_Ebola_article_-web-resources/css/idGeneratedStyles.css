@@ -1,0 +1,72 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote, figure {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+#_idContainer000 {
+	height:100.00%;
+	left:0%;
+	position:absolute;
+	top:0%;
+	width:100.00%;
+	z-index:0;
+}
+#_idContainer001 {
+	height:0.82%;
+	left:6.56%;
+	overflow:hidden;
+	position:absolute;
+	top:18.01%;
+	width:86.99%;
+	z-index:1;
+}
+#_idContainer002 {
+	height:0.61%;
+	left:16.23%;
+	overflow:hidden;
+	position:absolute;
+	top:91.79%;
+	width:29.58%;
+	z-index:4;
+}
+#_idContainer003 {
+	height:1.74%;
+	left:53.03%;
+	overflow:hidden;
+	position:absolute;
+	top:26.68%;
+	width:40.52%;
+	z-index:2;
+}
+#_idContainer004 {
+	height:0.39%;
+	left:58.50%;
+	overflow:hidden;
+	position:absolute;
+	top:89.68%;
+	width:11.68%;
+	z-index:3;
+}
+#_idContainer005 {
+	display:inline-block;
+	padding:596.13% 0% 0% 0%;
+	position:relative;
+	width:95.77%;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+figure._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
